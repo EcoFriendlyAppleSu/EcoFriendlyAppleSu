@@ -1,5 +1,5 @@
 ### Hi there 👋
-### OOP, DDD에 관심이 많습니다.!
+### OOP에 관심이 많습니다.!
 <!--
 **EcoFriendlyAppleSu/EcoFriendlyAppleSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
