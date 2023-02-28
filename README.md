@@ -1,5 +1,8 @@
 ### Hi there 👋
-### OOP에 관심이 많습니다.!
+#### 🍎 OOP, 효율적인 TestCode, 함께 자라기에 관심이 많습니다.
+#### 🍎 배움을 통해 불투명한 일을 투명한 일로 만드는 것을 좋아합니다.
+#### 🌱 현재 [JBLY](https://github.com/f-lab-edu/JBLY) Project를 진행하고 있습니다. 😀
+
 <!--
 **EcoFriendlyAppleSu/EcoFriendlyAppleSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
