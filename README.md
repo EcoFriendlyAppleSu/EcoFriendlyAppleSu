@@ -5,15 +5,22 @@
 
 ### Skills
 <span>
+  <!-- language -->
   <img src="https://img.shields.io/badge/kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin Badge" />
-  <img src="https://img.shields.io/badge/java-007396?logo=OpenJDK&logoColor=white" alt="Java Badge" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=OpenJDK&logoColor=white" alt="Java Badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-VanillaJS-blue">
+  </br>
+  
+  
   <img src="https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/springboot-6DB33F?logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/JUnit5-25A162?logo=JUnit5&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=GitHub Actions&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS_EC2-100000?style=flat&logo=amazonec2&logoColor=white&labelColor=FF9900&color=232F3E">
   <img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white">
 </span>
 
